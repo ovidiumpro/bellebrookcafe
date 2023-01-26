@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    align-items: center;
+    min-height: 110px;
+    padding: 0 20px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 80px;
+    margin-right: 20px;
+}
+
+.business-name {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.spacer {
+    flex: 1;
+}
