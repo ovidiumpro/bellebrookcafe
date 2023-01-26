@@ -10,6 +10,9 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^4.0.0",
     "react-scripts": "5.0.1",
+    "react-responsive": "9.0.2",
+    "react-burger-menu": "3.0.9",
+    "react-icons": "4.7.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
